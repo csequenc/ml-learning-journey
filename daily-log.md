@@ -1,6 +1,25 @@
 # Daily Learning Log
 
-## 2026-03-10 (Sunday)
+## 2026-03-10 (Tuesday)
+
+**Time Spent:** 3 hours
+
+**What I Did:**
+- Completed CS229 Lecture 2 understanding test (8/10 score)
+- Corrected misunderstandings: memory vs iterations in SGD, noise not always bad (in case of linear regression bad-neutral), SGD oscillation behavior
+- Wrote first blog post: "Understanding Gradient Descent: Batch, Stochastic, and Normal Equation"
+- Published blog to GitHub repo
+
+**Output:**
+- Blog post: `blog/cs229-lecture2-gradient-descent.md`
+- Understanding solidified through writing.
+
+**Notes:**
+- Writing blog helped clarify concepts I thought I understood but didn't fully
+- Cycling analogy worked well for explaining learning rate
+---
+
+## 2026-03-09 (Monday)
 **Time Spent:** 8 hours
 
 **What I Did:**
