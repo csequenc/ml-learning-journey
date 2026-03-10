@@ -1,5 +1,23 @@
 # Daily Learning Log
 
+## 2026-03-11 (Wednesday)
+
+**Time Spent:** 2.5 hours
+
+**What I Did:**
+- Watched first 42 min of CS229 Lecture 3 (locally weighted regression)
+- Deep dive on probabilistic interpretation of MSE
+- Understanding test on locally weighted regression (11/12 = 91.7%)
+
+**Output:**
+- Solid understanding of locally weighted regression (non-parametric, computational cost, bandwidth parameter)
+- Conceptual grasp of probabilistic interpretation (MSE from Gaussian likelihood)
+
+**Notes:**
+- Struggled with probabilistic interpretation 
+- Understood Locally Weighted Regression
+---
+
 ## 2026-03-10 (Tuesday)
 
 **Time Spent:** 3 hours
