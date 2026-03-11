@@ -1,5 +1,26 @@
 # Daily Learning Log
 
+## 2026-03-12 (Thursday)
+
+**Time Spent:** 3 hours
+
+**What I Did:**
+- Completed majority of CS229 Lecture 3 (Logistic Regression section, 63/77 min)
+- Deep dive on logistic regression mechanics: sigmoid function, probability interpretation, likelihood derivation, gradient descent vs gradient ascent
+- Understood key concepts: why sigmoid gives (0,1) range, why multiply probabilities (IID assumption), gradient intuition (h-y = "how wrong we are" vs y-h = "gap to close")
+- Clarified confusions: sigmoid range, combining probability equations, why maximize likelihood = minimize cost
+
+**Output:**
+- Solid conceptual understanding of logistic regression
+- Can explain: sigmoid squashing, probability formulation, likelihood maximization, gradient update rules
+- Clear intuition for gradient descent (subtract error) vs gradient ascent (add gap)
+
+**Notes:**
+- Logistic regression initially confusing (many concepts at once) but intuition clicked after working through step-by-step
+- Gradient descent vs ascent perspective: same algorithm, different framing (minimize cost vs maximize likelihood)
+
+---
+
 ## 2026-03-11 (Wednesday)
 
 **Time Spent:** 2.5 hours
