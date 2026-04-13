@@ -1,20 +1,26 @@
 # ML Learning Journey
 
-My journey learning Machine Learning, starting with Stanford CS229.
+My journey learning Machine Learning with Stanford CS229 and Andrew NG's DeepLearning.ai Practical Course.
 
 ## Current Progress
 - ✅ Math Foundations (Calculus, Linear Algebra, Probability)
 - ✅ Python + NumPy
-- ✅ Bridge Project (Linear Regression implementations)
-- 🔄 CS229 Lecture 2 in progress
+- ✅ CS229 Lectures 1-5
+- 🔄 CS229 Lecture 6 (Next weekend)
+- 🔄 DeepLearning.ai Practical ML Course (Weekdays)
 
 ## Repository Structure
 - `/cs229/` - Course notes, implementations, problem sets
+- `/deeplearning-ai/` - Practical ML course materials
 - `/projects/` - Major projects
-- `/blog-posts/` - Blog post drafts
+- `/blog/` - Blog post drafts
 - `daily-log.md` - Daily progress tracking
 
-## Goals (Year 1)
+## Schedule
+- **Weekends:** 1 new CS229 lecture
+- **Weekdays:** DeepLearning.ai Practical Course
+
+## Goals
 - Complete CS229
-- Document learning publicly via blog
-- 15-20 blog posts on ML concepts
+- Complete DeepLearning.ai Practical ML Course
+- Build practical ML projects
