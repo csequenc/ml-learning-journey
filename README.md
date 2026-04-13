@@ -11,7 +11,6 @@ My journey learning Machine Learning with Stanford CS229 and Andrew NG's DeepLea
 
 ## Repository Structure
 - `/cs229/` - Course notes, implementations, problem sets
-- `/deeplearning-ai/` - Practical ML course materials
 - `/projects/` - Major projects
 - `/blog/` - Blog post drafts
 - `daily-log.md` - Daily progress tracking
