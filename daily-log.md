@@ -11,3 +11,6 @@ DSA [Day-4] Problems:  - Q125(Valid Palindrome) - Q344 (Reverse String) - Q242 (
 
 Day-5: HOML Chapter-3, new topics: confusion matrix, ROC, precision-recall.
 DSA [Day-5] Problems:   - Q387(First Unique Character in String)  - Q205 (Isomorphic Strings - *Review)
+
+Day 6: HOML Chapter-3, continued confusion matrix, ROC, precision-recall. 
+DSA [Day-6] Problems:    - Q409 (Longest Palindrome)   - Q557 (Reverse words in a string -III)
