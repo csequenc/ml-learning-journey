@@ -14,3 +14,6 @@ DSA [Day-5] Problems:   - Q387(First Unique Character in String)  - Q205 (Isomor
 
 Day 6: HOML Chapter-3, continued confusion matrix, ROC, precision-recall. 
 DSA [Day-6] Problems:    - Q409 (Longest Palindrome)   - Q557 (Reverse words in a string -III)
+
+Day 7: ML paused this week due to mid sems.
+DSA [Day-7] Problems:    - Q167 (Two Sum - II)         - Q15 (3 Sum) - Review
