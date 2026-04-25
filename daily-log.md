@@ -17,3 +17,5 @@ DSA [Day-6] Problems:    - Q409 (Longest Palindrome)   - Q557 (Reverse words in 
 
 Day 7: ML paused this week due to mid sems.
 DSA [Day-7] Problems:    - Q167 (Two Sum - II)         - Q15 (3 Sum) - Review
+
+DSA [Day-8] Problems:    - Q11 (Container with Most Water)
