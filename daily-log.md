@@ -19,3 +19,9 @@ Day 7: ML paused this week due to mid sems.
 DSA [Day-7] Problems:    - Q167 (Two Sum - II)         - Q15 (3 Sum) - Review
 
 DSA [Day-8] Problems:    - Q11 (Container with Most Water)
+
+DSA [Day-9] Problems:    - Q75 (Sort Colors)
+clg update:  maths midsem tomorrow, skipped half of the topics lets see how it goes.
+
+
+
