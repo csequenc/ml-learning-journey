@@ -23,5 +23,5 @@ DSA [Day-8] Problems:    - Q11 (Container with Most Water)
 DSA [Day-9] Problems:    - Q75 (Sort Colors)
 clg update:  maths midsem tomorrow, skipped half of the topics lets see how it goes.
 
-
-
+DSA [Day-11] Problems:         - Q560 (Subarray Sum Equals K)  -genuine got stuck in this problem redo time
+midsem: done with mechanical paper, harder than maths but overall decent paper, next is soft skills paper☠️, will study half hour before exam, gn.
